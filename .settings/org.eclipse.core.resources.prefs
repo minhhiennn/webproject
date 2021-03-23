@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/admin/ThemAnhSanPham.jsp=UTF-8
+encoding//src/database/JavaMailUlti.java=UTF-8
+encoding//src/database/ProductDao.java=UTF-8
+encoding//src/database/UserDAO.java=UTF-8
+encoding//src/servlet/LoginServlet.java=UTF-8
+encoding//src/servlet/ProductDemoServlet.java=UTF-8
+encoding//src/servlet/ProductServlet.java=UTF-8
